@@ -1,0 +1,124 @@
+{
+    "customers": [
+        {
+            "id": 1,
+            "name": "jhon doe",
+            "cpf": "99999999999",
+            "phone_number": "85 999999999",
+            "address": {
+                "street": "rua leão",
+                "neighborhood": "bairro 13",
+                "city": "Fortaleza",
+                "number": 249
+            }
+        },
+        {
+            "id": 2,
+            "name": "Carlos doe",
+            "cpf": "99999999999",
+            "phone_number": "85 999999999",
+            "address": {
+                "street": "rua leão",
+                "neighborhood": "bairro 13",
+                "city": "Fortaleza",
+                "number": 249
+            }
+        },
+        {
+            "id": 3,
+            "name": "Eduardo doe",
+            "cpf": "99999999999",
+            "phone_number": "85 999999999",
+            "address": {
+                "street": "rua leão",
+                "neighborhood": "bairro 13",
+                "city": "Fortaleza",
+                "number": 249
+            }
+        },
+        {
+            "id": 4,
+            "name": "Ana doe",
+            "cpf": "99999999999",
+            "phone_number": "85 999999999",
+            "address": {
+                "street": "rua leão",
+                "neighborhood": "bairro 13",
+                "city": "Fortaleza",
+                "number": 249
+            }
+        },
+        {
+            "id": 5,
+            "name": "Ewila doe",
+            "cpf": "99999999999",
+            "phone_number": "85 999999999",
+            "address": {
+                "street": "rua leão",
+                "neighborhood": "bairro 13",
+                "city": "Fortaleza",
+                "number": 249
+            }
+        },
+        {
+            "id": 6,
+            "name": "Rayane doe",
+            "cpf": "99999999999",
+            "phone_number": "85 999999999",
+            "address": {
+                "street": "rua leão",
+                "neighborhood": "bairro 13",
+                "city": "Fortaleza",
+                "number": 249
+            }
+        },
+        {
+            "id": 7,
+            "name": "Cris doe",
+            "cpf": "99999999999",
+            "phone_number": "85 999999999",
+            "address": {
+                "street": "rua leão",
+                "neighborhood": "bairro 13",
+                "city": "Fortaleza",
+                "number": 249
+            }
+        },
+        {
+            "id": 8,
+            "name": "Vinicius doe",
+            "cpf": "99999999999",
+            "phone_number": "85 999999999",
+            "address": {
+                "street": "rua leão",
+                "neighborhood": "bairro 13",
+                "city": "Fortaleza",
+                "number": 249
+            }
+        },
+        {
+            "id": 9,
+            "name": "Lucas doe",
+            "cpf": "99999999999",
+            "phone_number": "85 999999999",
+            "address": {
+                "street": "rua leão",
+                "neighborhood": "bairro 13",
+                "city": "Fortaleza",
+                "number": 249
+            }
+        },
+        {
+            "id": 10,
+            "name": "Wesley doe",
+            "cpf": "99999999999",
+            "phone_number": "85 999999999",
+            "address": {
+                "street": "rua leão",
+                "neighborhood": "bairro 13",
+                "city": "Fortaleza",
+                "number": 249
+            }
+        }
+    ]
+}
